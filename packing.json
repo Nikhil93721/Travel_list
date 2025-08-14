@@ -1,1 +1,14 @@
-[{"item": "bag", "status": "\u2705 Packed"}, {"item": "sweets", "status": "\u274c Not Packed"}]
+[
+  {
+    "item": "bag",
+    "status": "✅ Packed"
+  },
+  {
+    "item": "book",
+    "status": "✅ Packed"
+  },
+  {
+    "item": "mug",
+    "status": "❌ Not Packed"
+  }
+]
